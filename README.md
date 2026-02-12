@@ -1,6 +1,7 @@
 # Speed indicator for windows 11
 
 This is a simple, useful speed indicator for Windows 11.
+
 Cheers 🍻🍻
 
 ## DEMO
