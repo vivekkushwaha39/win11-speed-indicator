@@ -1,6 +1,12 @@
 # Speed indicator for windows 11
 
-This is a simple, useful speed indicator for Windows 11.
+This project aims to provide a simple, always-visible network speed indicator for Windows.
+
+No heavy dashboards, no unnecessary features — just real-time speed in the system tray.
+
+Built to stay lightweight, reliable, and easy to extend.
+
+Because basic visibility shouldn’t require complex tools.
 
 Cheers 🍻🍻
 
