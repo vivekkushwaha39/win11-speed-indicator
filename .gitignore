@@ -1,0 +1,4 @@
+*.dist
+*.build
+pyenv
+**/__pycache__/
